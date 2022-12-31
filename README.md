@@ -50,7 +50,7 @@ the `medical_records` dictionary (i.e. using `record[“Age”]` to access the
 age where I had to use `medical_records[record][“Age”]` to access the same 
 information in my for loop).
 
-Finally, I saw the solution code using backslashes (\) to escape line 
+Finally, I saw the solution code using backslashes (\\) to escape line 
 breaks within for loops and other parts of the code to make it more 
 readable, which will definitely help me make my code more readable in the 
 future.
